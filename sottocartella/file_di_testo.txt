@@ -1,0 +1,1 @@
+Questo file di testo è inutile, serve solo per vedere cosa fanno le pull request.
